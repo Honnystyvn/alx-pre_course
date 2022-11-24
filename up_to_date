@@ -1,0 +1,4 @@
+iupdated the README.md file on the github interface and commit it there, then i use the following code 
+git fetch origin
+git pull 
+the local branch was updated and now i am about o commit this file after i add it.
